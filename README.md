@@ -25,8 +25,3 @@ I'm a passionate Software Developer with 4+ years of experience in remote enviro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamilsmas)
 
 Feel free to reach out to me for any collaboration or exciting project opportunities. Let's create something amazing together!
-
----
-
-*Note: Replace the placeholder links with your actual social media profiles and GitHub username.*
-
