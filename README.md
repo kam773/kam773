@@ -1,6 +1,6 @@
 # Hi, I'm Kamil! 👋
 
-I'm a passionate Software Developer with 5+ years of experience in remote environments, specializing in the JavaScript ecosystem. I have a strong focus on crafting lightweight, responsive web applications utilizing cutting-edge technologies and standards.
+I'm a passionate Software Developer with 6+ years of experience in remote environments, specializing in the JavaScript and PHP ecosystem. I have a strong focus on crafting lightweight, responsive web applications utilizing cutting-edge technologies and standards.
 
 ## 🔧 Technologies & Tools
 
@@ -17,7 +17,7 @@ I'm a passionate Software Developer with 5+ years of experience in remote enviro
 
 ## 🌟 About Me
 
-- 🖥️ **Experience**: 5+ years in remote software development.
+- 🖥️ **Experience**: 6+ years in remote software development.
 - 🚀 **Expertise**: Building responsive and scalable web applications.
 - 💡 **Passionate About**: Web performance optimization and leveraging modern technologies to create efficient web architectures.
 
