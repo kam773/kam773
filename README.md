@@ -2,6 +2,8 @@
 
 I'm a passionate Software Developer with 6+ years of experience in remote environments, specializing in the JavaScript and PHP ecosystem. I have a strong focus on crafting lightweight, responsive web applications utilizing cutting-edge technologies and standards.
 
+![Profile Views](https://komarev.com/ghpvc/?username=kam773&color=blue)
+
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
