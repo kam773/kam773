@@ -1,6 +1,6 @@
 # Hi, I'm Kamil! 👋
 
-I'm a passionate Software Developer with 6+ years of experience in remote environments, specializing in the JavaScript and PHP ecosystem. I have a strong focus on crafting lightweight, responsive web applications utilizing cutting-edge technologies and standards.
+AI-First Senior Fullstack Developer with 8+ years in remote, async-heavy environments. Specialist in the JavaScript ecosystem (TypeScript, React.js, Node.js) and Laravel, with a proven track record of owning end-to-end features from concept to production. Experienced in integrating AI solutions designing and scaling architectures with a performance-first mindset. Comfortable with AI-first development workflows and daily use of Cursor and Claude Code.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kam773&color=green)
 
@@ -19,7 +19,7 @@ I'm a passionate Software Developer with 6+ years of experience in remote enviro
 
 ## 🌟 About Me
 
-- 🖥️ **Experience**: 6+ years in remote software development.
+- 🖥️ **Experience**: 8+ years in remote software development.
 - 🚀 **Expertise**: Building responsive and scalable web applications.
 - 💡 **Passionate About**: Web performance optimization and leveraging modern technologies to create efficient web architectures.
 
